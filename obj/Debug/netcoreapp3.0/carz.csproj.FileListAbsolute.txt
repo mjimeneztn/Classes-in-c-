@@ -1,0 +1,11 @@
+C:\Users\Michelle\workspace\csharp\intro\carz\bin\Debug\netcoreapp3.0\carz.exe
+C:\Users\Michelle\workspace\csharp\intro\carz\bin\Debug\netcoreapp3.0\carz.deps.json
+C:\Users\Michelle\workspace\csharp\intro\carz\bin\Debug\netcoreapp3.0\carz.runtimeconfig.json
+C:\Users\Michelle\workspace\csharp\intro\carz\bin\Debug\netcoreapp3.0\carz.runtimeconfig.dev.json
+C:\Users\Michelle\workspace\csharp\intro\carz\bin\Debug\netcoreapp3.0\carz.dll
+C:\Users\Michelle\workspace\csharp\intro\carz\bin\Debug\netcoreapp3.0\carz.pdb
+C:\Users\Michelle\workspace\csharp\intro\carz\obj\Debug\netcoreapp3.0\carz.csprojAssemblyReference.cache
+C:\Users\Michelle\workspace\csharp\intro\carz\obj\Debug\netcoreapp3.0\carz.AssemblyInfoInputs.cache
+C:\Users\Michelle\workspace\csharp\intro\carz\obj\Debug\netcoreapp3.0\carz.AssemblyInfo.cs
+C:\Users\Michelle\workspace\csharp\intro\carz\obj\Debug\netcoreapp3.0\carz.dll
+C:\Users\Michelle\workspace\csharp\intro\carz\obj\Debug\netcoreapp3.0\carz.pdb
